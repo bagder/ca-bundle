@@ -10,3 +10,9 @@ license
 
 The converted file is licensed under the same licenses as the Mozilla source
 file: MPL 1.1, GPL v2.0 or LGPL 2.1
+
+conversion
+==========
+We use mk-ca-bundle.pl from curl:
+
+  https://github.com/bagder/curl/blob/master/lib/mk-ca-bundle.pl
