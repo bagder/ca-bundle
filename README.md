@@ -8,7 +8,7 @@ that is included in converted file.
 license
 =======
 
-The converted file is licensed under the same licenses as the Mozilla source
+The converted file is licensed under the same license as the Mozilla source
 file: MPL 2.0
 
 conversion
