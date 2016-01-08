@@ -9,7 +9,7 @@ license
 =======
 
 The converted file is licensed under the same licenses as the Mozilla source
-file: MPL 1.1, GPL v2.0 or LGPL 2.1
+file: MPL 2.0
 
 conversion
 ==========
