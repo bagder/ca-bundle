@@ -1,3 +1,10 @@
+Deprecated!
+===========
+
+Since the original curl site hosts this data over HTTPS now, this repository
+has no purpose and is going away soon. Go to
+https://curl.haxx.se/docs/caextract.html instead!
+
 ca-bundle
 =========
 
