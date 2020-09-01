@@ -1,7 +1,7 @@
 Backup only
 ===========
 
-This repository server only as a bacbkup to https://curl.haxx.se/docs/caextract.html.
+This repository serves only as a bacbkup to https://curl.haxx.se/docs/caextract.html.
 That's the primary resource and site.
 
 ca-bundle
