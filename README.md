@@ -4,12 +4,19 @@ Backup only
 This repository serves only as a backup to https://curl.se/docs/caextract.html.
 That's the primary resource and site.
 
-ca-bundle
-=========
+ca-bundle.crt
+=============
 
 The Mozilla CA bundle extracted and converted to PEM at regular intervals. See
 the PEM file itself for the actual date of the latest Mozilla source change
 that is included in converted file.
+
+certdata.txt
+============
+
+This is the corresponding source file used as input to generate the ca bundle
+output. Copied from the Mozilla source repository at the time the conversion
+is done.
 
 license
 =======
