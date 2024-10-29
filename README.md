@@ -28,4 +28,4 @@ conversion
 ==========
 We use mk-ca-bundle.pl from curl:
 
-  https://github.com/curl/curl/blob/master/lib/mk-ca-bundle.pl
+  https://github.com/curl/curl/blob/master/scripts/mk-ca-bundle.pl
